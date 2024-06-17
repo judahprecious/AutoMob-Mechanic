@@ -14,6 +14,12 @@ img {
     animation: fade 12s infinite;
     object-fit: cover;
 }
+button{
+    position: absolute;
+    z-index: 10;
+    left: 40%;
+    top: 40%;
+}
 @keyframes fade {
     0%, 33.33%, 100% { opacity: 0.3; }
     16.66%, 50% { opacity: 1; }

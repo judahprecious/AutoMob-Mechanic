@@ -1,0 +1,20 @@
+main {
+    height: 40vh;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    text-align: center;
+
+.maincontainer {
+    display: grid;
+    gap: 15px;
+
+}
+
+}
+
+button {
+    a{
+        color: white;
+    }
+}

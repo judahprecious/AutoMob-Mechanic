@@ -27,8 +27,11 @@ header{
     align-items: center;
 }
 .nav-links > a:hover{
-    background-color: #212121;
-  
+    background-color: #212121;   
+}
+
+main {
+    margin: bottom 15px;
     
 }
 footer {
@@ -41,4 +44,5 @@ footer {
     position: fixed;
     bottom: 0%;
     width: 100vw;
+    height: 15px;
 }
